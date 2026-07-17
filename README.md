@@ -15,7 +15,7 @@ Proof-of-concept builds - each one takes a single tool to do something interesti
 
 ## 🏛️ The Main Exhibit
 
-### [C# Bad Practices](https://github.com/illia-tereshchuk/csharp-bad-practices) — because fails are remembered
+### [C# Bad Practices](https://github.com/illia-tereshchuk/csharp-bad-practices) - because fails are remembered
 
 My favorite and biggest ongoing project: a museum of C# code that compiles fine and breaks anyway.
 
