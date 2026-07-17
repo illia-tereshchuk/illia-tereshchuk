@@ -1,6 +1,4 @@
-# My name is Illia Tereshchuk
-
-And I introduce this profile as my laboratory of **.NET** things that deserve a closer look.
+I introduce this profile as my laboratory of **.NET** things that deserve a closer look.
 
 ## ⚙️ Proving Grounds
 
