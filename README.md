@@ -15,4 +15,4 @@ Proof-of-concept builds - each one takes a single tool to do something interesti
 
 ## 🏛️ The Main Exhibit
 
-### [C# Bad Practices](https://github.com/illia-tereshchuk/csharp-bad-practices) - a collection of mistakes in C# to learn on them.
+### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - a collection of mistakes in C# to learn on them.
