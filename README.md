@@ -1,7 +1,6 @@
-
 ### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
 
-Proof-of-concept builds - each one takes a single tool to do something interesting:
+Proof-of-concepts for trivial adoption:
 
 | Tool | Build | What it proves |
 |-------|-------|----------------|
@@ -11,11 +10,8 @@ Proof-of-concept builds - each one takes a single tool to do something interesti
 | **OData** | [aspnetcore-odata-chinook](https://github.com/illia-tereshchuk/aspnetcore-odata-chinook) | Query language living inside a URL |
 | **Hangfire** | [aspnetcore-hangfire-to-go](https://github.com/illia-tereshchuk/aspnetcore-hangfire-to-go) | Background jobs and scheduling |
 
-Cheatsheets - to get the point at a glance:
+Cheatsheets to get the point at a glance:
 
 | Topic | Cheatsheet |
 |-------|------------|
 | **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) |
-
-
-
