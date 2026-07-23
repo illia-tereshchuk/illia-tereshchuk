@@ -1,5 +1,9 @@
 I introduce this profile as my laboratory of **.NET** things that deserve a closer look.
 
+## 🏛️ The Main Exhibit
+
+### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - a collection of mistakes in C# to learn on them.
+
 ## ⚙️ Proving Grounds
 
 Proof-of-concept builds - each one takes a single tool to do something interesting:
@@ -22,6 +26,4 @@ Stripped-to-the-minimum references - copy a folder, run it, get the concept:
 | **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) | 8 minimal .NET examples, one messaging concept each |
 
 
-## 🏛️ The Main Exhibit
 
-### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - a collection of mistakes in C# to learn on them.
