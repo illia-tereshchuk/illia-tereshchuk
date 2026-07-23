@@ -2,7 +2,7 @@ I introduce this profile as my laboratory of **.NET** things that deserve a clos
 
 ## 🏛️ The Main Exhibit
 
-### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - a collection of mistakes in C# to learn on them.
+### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to err and recover.
 
 ## ⚙️ Proving Grounds
 
