@@ -1,10 +1,5 @@
-I introduce this profile as my laboratory of **.NET** things that deserve a closer look.
 
-## 🏛️ The Main Exhibit
-
-### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to err and recover.
-
-## ⚙️ Proving Grounds
+### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
 
 Proof-of-concept builds - each one takes a single tool to do something interesting:
 
@@ -16,14 +11,11 @@ Proof-of-concept builds - each one takes a single tool to do something interesti
 | **OData** | [aspnetcore-odata-chinook](https://github.com/illia-tereshchuk/aspnetcore-odata-chinook) | Query language living inside a URL |
 | **Hangfire** | [aspnetcore-hangfire-to-go](https://github.com/illia-tereshchuk/aspnetcore-hangfire-to-go) | Background jobs and scheduling |
 
+Cheatsheets - to get the point at a glance:
 
-## 📑 Cheatsheets
-
-Stripped-to-the-minimum references - copy a folder, run it, get the concept:
-
-| Topic | Cheatsheet | What it covers |
-|-------|------------|----------------|
-| **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) | 8 minimal .NET examples, one messaging concept each |
+| Topic | Cheatsheet |
+|-------|------------|
+| **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) |
 
 
 
