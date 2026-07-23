@@ -13,6 +13,15 @@ Proof-of-concept builds - each one takes a single tool to do something interesti
 | **Hangfire** | [aspnetcore-hangfire-to-go](https://github.com/illia-tereshchuk/aspnetcore-hangfire-to-go) | Background jobs and scheduling |
 
 
+## 📑 Cheatsheets
+
+Stripped-to-the-minimum references - copy a folder, run it, get the concept:
+
+| Topic | Cheatsheet | What it covers |
+|-------|------------|----------------|
+| **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) | 8 minimal .NET examples, one messaging concept each |
+
+
 ## 🏛️ The Main Exhibit
 
 ### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - a collection of mistakes in C# to learn on them.
