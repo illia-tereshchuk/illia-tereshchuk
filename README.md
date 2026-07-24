@@ -1,5 +1,3 @@
-### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
-
 Proof-of-concepts for trivial adoption:
 
 | Tool | Build | What it proves |
@@ -15,3 +13,5 @@ Cheatsheets to get the point at a glance:
 | Topic | Cheatsheet |
 |-------|------------|
 | **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) |
+
+### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
