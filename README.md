@@ -19,6 +19,6 @@ Sandboxes:
 
 | Topic | Repo |
 |-------|------------|
-| **CI/CD** | (https://github.com/illia-tereshchuk/cicd)
+| **CI/CD** | [cicd](https://github.com/illia-tereshchuk/cicd)
 
 ### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
