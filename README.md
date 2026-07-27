@@ -1,3 +1,5 @@
+### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
+
 Proof-of-concepts:
 
 | Tool | Repo | Function |
@@ -16,4 +18,4 @@ Cheatsheets:
 | **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) |
 | **CI/CD + Azure** | [dotnet-cicd-azure-cheatsheet](https://github.com/illia-tereshchuk/dotnet-cicd-azure-cheatsheet) |
 
-### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
+
