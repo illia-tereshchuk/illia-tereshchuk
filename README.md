@@ -19,6 +19,6 @@ Sandboxes:
 
 | Topic | Repo |
 |-------|------------|
-| **GitHub Actions + Azure App Services** | [cicd](https://github.com/illia-tereshchuk/cicd)
+| **GitHub Actions + Azure App Services** | [dotnet-cicd-azure](https://github.com/illia-tereshchuk/dotnet-cicd-azure)
 
 ### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
