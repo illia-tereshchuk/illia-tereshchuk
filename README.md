@@ -14,11 +14,6 @@ Cheatsheets:
 |-------|------------|
 | **Docker** | [dotnet-docker-cheatsheet](https://github.com/illia-tereshchuk/dotnet-docker-cheatsheet) |
 | **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) |
-
-Sandboxes:
-
-| Topic | Repo |
-|-------|------------|
-| **GitHub Actions + Azure App Services** | [dotnet-cicd-azure](https://github.com/illia-tereshchuk/dotnet-cicd-azure)
+| **CI/CD + Azure** | [dotnet-cicd-azure](https://github.com/illia-tereshchuk/dotnet-cicd-azure) |
 
 ### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
