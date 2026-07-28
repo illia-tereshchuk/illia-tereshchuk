@@ -1,3 +1,5 @@
+(todo: put some career-related shit to impress anyone who opens it)
+
 ### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
 
 Proof-of-concepts:
