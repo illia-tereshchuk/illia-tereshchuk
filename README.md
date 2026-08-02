@@ -1,4 +1,4 @@
-
+(draft: i hope you don't see it, but if you do - you're welcome)
 
 ### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
 
