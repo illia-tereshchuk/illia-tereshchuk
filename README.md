@@ -19,11 +19,11 @@ For now, in [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-m
 
 For to-go learning and quick refresh, I maintain these ones:
 
-| Topic | Cheatsheet |
-|-------|------------|
-| **Docker** | [dotnet-docker-cheatsheet](https://github.com/illia-tereshchuk/dotnet-docker-cheatsheet) |
-| **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) |
-| **CI/CD + Azure** | [dotnet-cicd-azure-cheatsheet](https://github.com/illia-tereshchuk/dotnet-cicd-azure-cheatsheet) |
+| Tool | Usage |
+|-|-|
+| [dotnet-docker-cheatsheet](https://github.com/illia-tereshchuk/dotnet-docker-notes) |  |
+| [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-notes) |  |
+| [dotnet-cicd-azure-cheatsheet](https://github.com/illia-tereshchuk/dotnet-cicd-azure-notes) |  |
 
 ### Contact Me
 
