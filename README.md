@@ -12,15 +12,17 @@ For now, in [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-m
 | [MQTT](https://github.com/illia-tereshchuk/aspnetcore-mqtt-hardware) | IoT at its simplest: listening to sensors | 
 | [gRPC](https://github.com/illia-tereshchuk/aspnetcore-grpc-trading) | Microservice streaming its data to user | 
 | [OData](https://github.com/illia-tereshchuk/aspnetcore-odata-chinook) | Query just in URL instead of REST API | 
-| [Hangfire](https://github.com/illia-tereshchuk/aspnetcore-hangfire-to-go) | Scheduling background jobs made easy | 
+| [Hangfire](https://github.com/illia-tereshchuk/aspnetcore-hangfire-to-go) | Scheduling background job properly | 
 
-### Notes
+### Step-by-step
+
+Here I collect short memorizeable snippets for easy start.
 
 | Tool | Usage |
 |-|-|
-| [Docker](https://github.com/illia-tereshchuk/dotnet-docker-notes) | Composing .NET API with PostrgeSQL database |
-| [RabbitMQ](https://github.com/illia-tereshchuk/dotnet-rabbitmq-notes) | Showcasing messaging concept in small examples |
-| [GitHub Actions + Azure](https://github.com/illia-tereshchuk/dotnet-cicd-azure-notes) | Deploying .NET API to Azure App Services |
+| [Docker](https://github.com/illia-tereshchuk/dotnet-docker-notes) | Compose .NET API with PostrgeSQL database |
+| [RabbitMQ](https://github.com/illia-tereshchuk/dotnet-rabbitmq-notes) | Each side of messaging explained separately |
+| [GitHub Actions + Azure](https://github.com/illia-tereshchuk/dotnet-cicd-azure-notes) | CI/CD of .NET API to Azure App Services |
 
 ### Contact Me
 
