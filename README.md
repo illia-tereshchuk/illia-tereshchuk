@@ -1,22 +1,21 @@
-(draft: i hope you don't see it, but if you do - you're welcome)
+I would like to put a bit of soul into my practice. Let me speak from my heart ❤
 
-### [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) - various ways to make errors and recover.
+### Headliner
 
-Proof-of-concepts:
+For now, in [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) I gather a museum of failures and recoveries.
 
-| Tool | Repo | Function |
-|-------|-------|----------------|
-| **Polly** | [aspnetcore-polly-lab](https://github.com/illia-tereshchuk/aspnetcore-polly-lab) | Retries, circuit breakers and timeouts |
-| **gRPC** | [aspnetcore-grpc-trading](https://github.com/illia-tereshchuk/aspnetcore-grpc-trading) | Streaming live quotes over gRPC |
-| **MQTT** | [aspnetcore-mqtt-hardware](https://github.com/illia-tereshchuk/aspnetcore-mqtt-hardware) | Hardware status polling over MQTT |
-| **OData** | [aspnetcore-odata-chinook](https://github.com/illia-tereshchuk/aspnetcore-odata-chinook) | Query language living inside a URL |
-| **Hangfire** | [aspnetcore-hangfire-to-go](https://github.com/illia-tereshchuk/aspnetcore-hangfire-to-go) | Background jobs and scheduling |
+### Experiments
 
-Repos with small projects representing concepts:
+| Tool | Usage |
+|-|-|
+| [Polly](https://github.com/illia-tereshchuk/aspnetcore-polly-lab) | Covering fragile endpoing from DDoS |
+| [MQTT](https://github.com/illia-tereshchuk/aspnetcore-mqtt-hardware) | IoT at its simplest: listening to sensors | 
+| [gRPC](https://github.com/illia-tereshchuk/aspnetcore-grpc-trading) | Microservice streaming its data to user | 
+| [OData](https://github.com/illia-tereshchuk/aspnetcore-odata-chinook) | Query just in URL instead of REST API | 
+| [Hangfire](https://github.com/illia-tereshchuk/aspnetcore-hangfire-to-go) | Scheduling background jobs made easy | 
 
-- **[Polly](https://github.com/illia-tereshchuk/aspnetcore-polly-lab)** - for high-load projects, we use - blah blah
-- **[MQTT](https://github.com/illia-tereshchuk/aspnetcore-mqtt-hardware)** - a base for Internet of Things - blah blah
-- **[gRPC](https://github.com/illia-tereshchuk/aspnetcore-grpc-trading)** - used by microservices communication 
+### References
+
 
 For to-go learning and quick refresh, I maintain these ones:
 
@@ -26,6 +25,9 @@ For to-go learning and quick refresh, I maintain these ones:
 | **RabbitMQ** | [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-cheatsheet) |
 | **CI/CD + Azure** | [dotnet-cicd-azure-cheatsheet](https://github.com/illia-tereshchuk/dotnet-cicd-azure-cheatsheet) |
 
-Contact:
+### Contact Me
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/illia.tereshchuk) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
+
+
+🎪 🛑 🛸 ⏳ 🌡 ⚡ 
