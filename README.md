@@ -14,16 +14,13 @@ For now, in [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-m
 | [OData](https://github.com/illia-tereshchuk/aspnetcore-odata-chinook) | Query just in URL instead of REST API | 
 | [Hangfire](https://github.com/illia-tereshchuk/aspnetcore-hangfire-to-go) | Scheduling background jobs made easy | 
 
-### References
-
-
-For to-go learning and quick refresh, I maintain these ones:
+### Notes
 
 | Tool | Usage |
 |-|-|
-| [dotnet-docker-cheatsheet](https://github.com/illia-tereshchuk/dotnet-docker-notes) |  |
-| [dotnet-rabbitmq-cheatsheet](https://github.com/illia-tereshchuk/dotnet-rabbitmq-notes) |  |
-| [dotnet-cicd-azure-cheatsheet](https://github.com/illia-tereshchuk/dotnet-cicd-azure-notes) |  |
+| [Docker](https://github.com/illia-tereshchuk/dotnet-docker-notes) | Composing .NET API with PostrgeSQL database |
+| [RabbitMQ](https://github.com/illia-tereshchuk/dotnet-rabbitmq-notes) | Showcasing messaging concept in small examples |
+| [GitHub Actions + Azure](https://github.com/illia-tereshchuk/dotnet-cicd-azure-notes) | Deploying .NET API to Azure App Services |
 
 ### Contact Me
 
