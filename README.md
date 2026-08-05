@@ -1,4 +1,4 @@
-For now, in [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) I gather a museum of failures and recoveries.
+In [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained) I gather a museum of failures and recoveries. 🐞
 
 ### Experiments
 
