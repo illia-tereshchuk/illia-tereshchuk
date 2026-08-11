@@ -24,7 +24,9 @@ Here I collect short memorizable snippets for easy start.
 
 ### Appreciations
 
-[Elber Funez](https://github.com/elberfunez) - for great guidance on interview preparation.
+[Dmytro Cherniavskyi](https://github.com/diliger) - for support in a critical moment. 
+
+[Elber Funez](https://github.com/elberfunez) - for guidance on interview preparation.
 
 ### Contact Me
 
