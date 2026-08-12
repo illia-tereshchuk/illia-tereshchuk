@@ -20,13 +20,13 @@ Here I collect short memorizable snippets for easy start.
 | [RabbitMQ](https://github.com/illia-tereshchuk/dotnet-rabbitmq-notes) | Each side of messaging explained separately |
 | [GitHub Actions + Azure](https://github.com/illia-tereshchuk/dotnet-cicd-azure-notes) | CI/CD of .NET API to Azure App Services |
 
-
-
 ### Appreciations
 
 [Dmytro Cherniavskyi](https://github.com/diliger) - for support in a critical moment. 
 
 [Elber Funez](https://github.com/elberfunez) - for guidance on interview preparation.
+
+[Pavlo Shvorak](https://github.com/paulshvorak) - for sharing meaningful IT insights.
 
 ### Contact Me
 
