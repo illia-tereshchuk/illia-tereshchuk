@@ -26,7 +26,7 @@ Here I collect short memorizable snippets for easy start.
 
 [Elber Funez](https://github.com/elberfunez) - for guidance on interview preparation.
 
-[Pavlo Shvorak](https://github.com/paulshvorak) - for sharing meaningful IT insights.
+[Paul Shvorak](https://github.com/paulshvorak) - for sharing meaningful IT insights.
 
 ### Contact Me
 
