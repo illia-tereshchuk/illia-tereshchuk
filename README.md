@@ -1,6 +1,6 @@
 [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained): museum of failures and recoveries. 🐞
 
-[.NET-specific system design](https://github.com/nasytnyk/dotnet-system-design-ukrainian): cases answered in **Ukrainian** 🎓
+[.NET-specific system design](https://github.com/nasytnyk/dotnet-system-design-ukrainian): my learning path in **Ukrainian** 🎓
 
 ### Experiments
 
