@@ -2,6 +2,8 @@
 
 [.NET-specific system design](https://github.com/nasytnyk/dotnet-system-design-ukrainian): my learning path in **Ukrainian** 🎓
 
+[Bydłoclauder](https://github.com/nasytnyk/bydloclauder): because I want him to be a bydło like me 🐷
+
 ### Experiments
 
 | Tool | Usage |
