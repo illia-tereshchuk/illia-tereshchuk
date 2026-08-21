@@ -18,8 +18,6 @@
 
 ### Step-by-step
 
-Here I collect short memorizable snippets for easy start.
-
 | Tool | Usage |
 |-|-|
 | [Docker](https://github.com/illia-tereshchuk/dotnet-docker-notes) | Compose .NET API with PostrgeSQL database |
