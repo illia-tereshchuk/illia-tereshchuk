@@ -1,10 +1,12 @@
-[C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained): museum of failures and recoveries 🐞
+🐞 [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained): museum of failures and recoveries 
 
-[Bydłoclauder](https://github.com/nasytnyk/bydloclauder): because I want him to be a bydło like me 🐷
+🎱 [Bydłoclauder](https://github.com/nasytnyk/bydloclauder): if AI replaces me, make sure it knows how 
 
-[C# Leetcode](https://github.com/nasytnyk/csharp-leetcode): a proven record of suffering for interviews 🫠
+🫠 [C# Leetcode](https://github.com/nasytnyk/csharp-leetcode): a proven record of suffering for interviews 
 
-[.NET-specific system design](https://github.com/nasytnyk/dotnet-system-design-ukrainian): my learning path in **Ukrainian** 🎓
+⚙ [.NET-specific system design](https://github.com/nasytnyk/dotnet-system-design-ukrainian): Ukrainian, **Azure**-focused
+
+📜 [Excalidraw presentations](https://github.com/nasytnyk/excalidraw-presentations): my experience visualised
 
 ### Experiments
 
