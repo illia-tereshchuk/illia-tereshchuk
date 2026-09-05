@@ -10,7 +10,7 @@
 
 📜 [Excalidraw presentations](https://github.com/nasytnyk/excalidraw-presentations): my experience visualised.
 
-### Experiments
+### Labs
 
 | Tool | Usage |
 |-|-|
@@ -20,7 +20,7 @@
 | [OData](https://github.com/illia-tereshchuk/aspnetcore-odata-chinook) | Query just in URL instead of REST API | 
 | [Hangfire](https://github.com/illia-tereshchuk/aspnetcore-hangfire-to-go) | Scheduling background job properly | 
 
-### Step-by-step
+### Notes
 
 | Tool | Usage |
 |-|-|
