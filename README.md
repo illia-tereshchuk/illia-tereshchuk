@@ -24,7 +24,7 @@
 
 | Tool | Usage |
 |-|-|
-| [Docker](https://github.com/illia-tereshchuk/dotnet-docker-notes) | Compose .NET API with PostrgeSQL database |
+| [Docker](https://github.com/illia-tereshchuk/dotnet-docker-notes) | Basics, compose, .NET API + PostrgeSQL |
 | [RabbitMQ](https://github.com/illia-tereshchuk/dotnet-rabbitmq-notes) | Each side of messaging explained separately |
 | [GitHub Actions + Azure](https://github.com/illia-tereshchuk/dotnet-cicd-azure-notes) | CI/CD of .NET API to Azure App Services |
 
