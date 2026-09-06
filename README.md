@@ -2,13 +2,13 @@
 
 🐞 [C# Mistakes Explained](https://github.com/illia-tereshchuk/csharp-mistakes-explained): museum of failures and recoveries.
 
+⚙ [.NET-specific system design](https://github.com/nasytnyk/dotnet-system-design-ukrainian): **Azure**-focused, on Ukrainian.
+
+📜 [Excalidraw presentations](https://github.com/nasytnyk/excalidraw-presentations): visualising my experience.
+
 🎱 [Bydłoclauder](https://github.com/nasytnyk/bydloclauder): if AI replaces me, make sure it knows how.
 
-🫠 [C# Leetcode](https://github.com/nasytnyk/csharp-leetcode): a proven record of suffering for interviews.
-
-⚙ [.NET-specific system design](https://github.com/nasytnyk/dotnet-system-design-ukrainian): Ukrainian, **Azure**-focused.
-
-📜 [Excalidraw presentations](https://github.com/nasytnyk/excalidraw-presentations): my experience visualised.
+🫠 [C# Leetcode](https://github.com/nasytnyk/csharp-leetcode): not doing, and hope will never need to.
 
 ### Labs
 
